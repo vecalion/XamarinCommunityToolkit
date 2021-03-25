@@ -12,6 +12,7 @@
                 TabStripPlacement="Bottom"
                 TabStripBackgroundColor="Blue"
                 TabStripHeight="60"
+                SelectedIndex="{Binding Index}"
                 TabIndicatorColor="Yellow"
                 TabContentBackgroundColor="Yellow">
                 <xct:TabViewItem
